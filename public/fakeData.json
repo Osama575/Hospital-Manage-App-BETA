@@ -1,0 +1,101 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "Abbas Ali",
+      "diseases": "Diabetes",
+      "date": "25-01-2022",
+      "status": "Paid"
+    },
+    {
+      "id": 2,
+      "name": "Sunil Sarma",
+      "diseases": "Anxiety",
+      "date": "26-01-2022",
+      "status": "Unpaid"
+    },
+    {
+      "id": 3,
+      "name": "Ajmal Khan",
+      "diseases": "Hemorrhoid",
+      "date": "25-01-2022",
+      "status": "Paid"
+    },
+    {
+      "id": 4,
+      "name": "Hasem Mia",
+      "diseases": "Psoriasis",
+      "date": "27-01-2022",
+      "status": "Unpaid"
+    }
+  ],
+  "admins": [
+    {
+      "id": 5,
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "role": "Admin",
+      "img": "https://i.ibb.co/71FWtmk/team-4.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Shima",
+      "email": "shima@gmail.com",
+      "role": "Admin",
+      "img": "https://i.ibb.co/j6KyChh/team-3.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Khayrul Islam",
+      "email": "Khayrul@Islam.com",
+      "role": "Admin",
+      "img": "https://i.ibb.co/r0193cS/team-1.jpg"
+    }
+  ],
+  "staffs": [
+    {
+      "id": 8,
+      "name": "Staff",
+      "email": "staff@gmail.com",
+      "role": "Staff",
+      "img": "https://i.ibb.co/x37Cxfw/team-2.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "role": "Staff",
+      "img": "https://i.ibb.co/mHJr2B1/Ellipse-92.png"
+    },
+    {
+      "id": 10,
+      "name": "Alia Bhat",
+      "email": "alia@gmail.com",
+      "role": "Staff",
+      "img": "https://i.ibb.co/ZMnydyC/Ellipse-90.png"
+    }
+  ],
+  "doctors": [
+    {
+      "id": 11,
+      "name": "Dr. Ovijit Roy",
+      "email": "ovijit@gmail.com",
+      "role": "Doctor",
+      "img": "https://i.ibb.co/D5F9FSs/doctor8.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Dr. Ajufa Akther",
+      "email": "ajufa@gmail.com",
+      "role": "Doctor",
+      "img": "https://i.ibb.co/dmMtHpk/doctor7.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Dr. Khayrul Islam",
+      "email": "Khayrul@gmail.com",
+      "role": "Doctor",
+      "img": "https://i.ibb.co/r4QbWc1/doctor3.jpg"
+    }
+  ]
+}
